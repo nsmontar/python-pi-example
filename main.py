@@ -7,6 +7,8 @@ def main(msg):
 def secondary():
     print('New function')
 
+def tertiary():
+    print('I really hope this works')
 
 
 main('Hello World!')
