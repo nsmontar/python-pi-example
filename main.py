@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+!/usr/bin/python3
 
 def main(msg):
     # print a message
@@ -7,8 +7,5 @@ def main(msg):
 
 def secondary():
     print('I finally understand!')
-
-def tertiary():
-    pass
 
 main('Hello World!')
