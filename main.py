@@ -8,6 +8,7 @@ def main(msg):
 def secondary():
     print('I finally understand!')
 
-
+def tertiary():
+    pass
 
 main('Hello World!')
