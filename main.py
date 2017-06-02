@@ -5,4 +5,7 @@ def main(msg):
 
     print(msg)
 
+def secondary():
+    print('I finally understand!')
+
 main('Hello World!')
